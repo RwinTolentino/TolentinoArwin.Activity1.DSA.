@@ -1,0 +1,15 @@
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\bin\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.exe.config
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\bin\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.exe
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\bin\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.pdb
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.csprojAssemblyReference.cache
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\MainWindow.g.cs
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\App.g.cs
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2_MarkupCompile.cache
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2_MarkupCompile.lref
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\MainWindow.baml
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.g.resources
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.Properties.Resources.resources
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.csproj.GenerateResource.cache
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.csproj.CoreCompileInputs.cache
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.exe
+C:\Users\COMLABPC8\source\repos\ArwinTolentino.PRELIMS.Activity1SEM2\ArwinTolentino.PRELIMS.Activity1SEM2\obj\Debug\ArwinTolentino.PRELIMS.Activity1SEM2.pdb
